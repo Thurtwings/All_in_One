@@ -1,0 +1,16 @@
+{
+    "friendlyName": "Mate 20",
+    "version": 1,
+    "Screens": 
+    [
+        {
+            "width": 1080, 
+            "height": 2244, 
+            "dpi": 450.0
+        }
+    ],
+            "SystemInfo": 
+            {
+                "operatingSystem" : "Android"
+            }
+}

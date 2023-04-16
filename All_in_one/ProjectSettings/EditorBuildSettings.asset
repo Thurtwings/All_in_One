@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/_Main Menu.unity
+    guid: 5c37cd46b87138d4395bc6a4c0c0f02d
+  - enabled: 1
+    path: Assets/_Scenes/Re_AA.unity
+    guid: ee0d5d389fe94764a95e10941dc0b0c1
+  - enabled: 1
+    path: Assets/_Scenes/Re_Color Switch.unity
+    guid: 464a7c1ff3d798b4c8770042ce3fa48c
+  - enabled: 1
+    path: Assets/_Scenes/Re_Cut the rope.unity
+    guid: 4deb97b82a98b5b48b2785ff9a50f359
+  - enabled: 1
+    path: Assets/_Scenes/Re_Stack.unity
+    guid: 6da83d2da8090ab4ca22f024f8cde7d9
+  - enabled: 1
+    path: Assets/_Scenes/Re_Flappy Bird.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/_Scenes/Re_Fruit Ninja.unity
+    guid: cfbdf756a9d91c943abcbe4ee00b7089
+  - enabled: 1
+    path: Assets/_Scenes/Hangman.unity
+    guid: 387e205c0b681e3489c8452648788e46
+  - enabled: 1
+    path: Assets/_Scenes/Re_Line Rider.unity
+    guid: a7bf5f522707cb54985cbf32076b4630
+  - enabled: 1
+    path: Assets/_Scenes/Mastermind.unity
+    guid: aa67824866c4455409a90d9c58f90c35
+  - enabled: 1
+    path: Assets/_Scenes/Racing Cars.unity
+    guid: 3be4006eaea616f4d886dac054524acc
+  - enabled: 1
+    path: Assets/_Scenes/Re_Space Invader.unity
+    guid: 7108517ecdbc68c45aa927c42839729f
+  - enabled: 1
+    path: Assets/_Scenes/Memory.unity
+    guid: 50c14759389662f42b48d04cfc9f96c2
+  - enabled: 1
+    path: Assets/_Scenes/TicTacToe.unity
+    guid: 9e0eb37cd1fcd4846a493e943865e07c
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 331c35ed3566fda4ea662d04f71e4cd2, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5e433b781f4001c4985c7f614541049c, type: 2}

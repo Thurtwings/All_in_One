@@ -1,0 +1,517 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.2f1 (d6360bedb9a0) revision 14038539'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'fr' Physical Memory: 16310 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Unity_Shared/Unity_GitHub/all_in_one_app/All_in_one
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61215
+Successfully changed project path to: C:/Unity_Shared/Unity_GitHub/all_in_one_app/All_in_one
+C:/Unity_Shared/Unity_GitHub/all_in_one_app/All_in_one
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 127.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.2f1 (d6360bedb9a0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity_Shared/Unity_GitHub/all_in_one_app/All_in_one/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   31.0.15.2225
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56272
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010775 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 106.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.636 seconds
+Domain Reload Profiling:
+	ReloadAssembly (636ms)
+		BeginReloadAssembly (70ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (457ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (98ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (286ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (60ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (106ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (81ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007668 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 111.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Package Manager log level set to [2]
+- Completed reload, in  1.484 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1485ms)
+		BeginReloadAssembly (214ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (124ms)
+		EndReloadAssembly (1154ms)
+			LoadAssemblies (114ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (242ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (668ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (112ms)
+				BeforeProcessingInitializeOnLoad (136ms)
+				ProcessInitializeOnLoadAttributes (302ms)
+				ProcessInitializeOnLoadMethodAttributes (87ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 2.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4820 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 64 unused Assets / (1.3 MB). Loaded Objects now: 5560.
+Memory consumption went from 219.1 MB to 217.8 MB.
+Total: 5.758100 ms (FindLiveObjects: 0.758400 ms CreateObjectMapping: 0.177700 ms MarkObjects: 4.182500 ms  DeleteObjects: 0.638200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 223437.750458 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(d98ad1674ee8d5040ad22d07feddcab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(d98ad1674ee8d5040ad22d07feddcab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d7dae6e2e182c33651a2db94d4ce64') in 0.028780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.098828 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(714ff64dc7c11ec46911b289428e3978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(714ff64dc7c11ec46911b289428e3978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8e9daf2cc4d01a4ea105b903a7befd') in 0.002002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 335.963538 seconds.
+  path: Assets/Prefabs/Basket Ball
+  artifactKey: Guid(832bef489b6fad54c94e8e71ab5a4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Basket Ball using Guid(832bef489b6fad54c94e8e71ab5a4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8493efc1c0c387879bf12e923cdeb358') in 0.004122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.592808 seconds.
+  path: Assets/Prefabs/Basket Ball/Player.prefab
+  artifactKey: Guid(6e2236c43f81dc14e89f2e7ebe00e2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Basket Ball/Player.prefab using Guid(6e2236c43f81dc14e89f2e7ebe00e2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de7aad122749a2f000a1d145bf5b253') in 0.274545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.245215 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_Circle AB.mat
+  artifactKey: Guid(4487b6501f1381549872ae22738916a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_Circle AB.mat using Guid(4487b6501f1381549872ae22738916a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe6c0f55e742bea80a74b9d4895c2e9') in 0.045081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Poison.mat
+  artifactKey: Guid(f5fafca530cc41b4d822cfce42802e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Poison.mat using Guid(f5fafca530cc41b4d822cfce42802e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da2549c53ed16649d4ccc99bc7aa111') in 0.961795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/tripolygon/UModeler/Materials/Basic/UModeler_InvisibleGrid.mat
+  artifactKey: Guid(6d412f8b70d53224786a44e5ee924e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/UModeler/Materials/Basic/UModeler_InvisibleGrid.mat using Guid(6d412f8b70d53224786a44e5ee924e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b58c24a9d7650a2fdf021feb69499e1') in 0.370184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/tripolygon/UModeler/Materials/Basic/UModeler_PolygonSelection.mat
+  artifactKey: Guid(57be82165aefb584cbe340319a330732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/UModeler/Materials/Basic/UModeler_PolygonSelection.mat using Guid(57be82165aefb584cbe340319a330732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1095e78e4e072279b9e2815acf15aa6a') in 0.021700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf
+  artifactKey: Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf using Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750b02d00096693b2222abce7f2595c8') in 0.056537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/House.mat
+  artifactKey: Guid(b9b5846b0ae71554eb4e19ea4546ac36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/House.mat using Guid(b9b5846b0ae71554eb4e19ea4546ac36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c3e1ae8448f76dd8092fa100642ca7') in 0.046997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Ice.mat
+  artifactKey: Guid(87017c1756133d64693c7ee811a15a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Ice.mat using Guid(87017c1756133d64693c7ee811a15a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67465a47b30f6d165da3a44bdec178e7') in 0.603574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Eyes_Realistic_green.mat
+  artifactKey: Guid(85055c7bdb65e4a418291ea8dd06485f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Eyes_Realistic_green.mat using Guid(85055c7bdb65e4a418291ea8dd06485f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08b5d4cdec84f334214bf0eb31af2f9') in 0.025106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Orenge.mat
+  artifactKey: Guid(bf26d22c07c4d8340b1614b82cd3605c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Orenge.mat using Guid(bf26d22c07c4d8340b1614b82cd3605c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9cd8cd0493e1c7f54c125265ed4b1b0') in 0.024278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Bubble_Add.mat
+  artifactKey: Guid(503ba37627ac18c4ebe9bbe73d6ea9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Bubble_Add.mat using Guid(503ba37627ac18c4ebe9bbe73d6ea9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171b1a74191ad5774d824a0b81de82f2') in 0.022675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf
+  artifactKey: Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf using Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dede007091777f6861ff4986c03cf4') in 0.028409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Fonts/xbones SDF.asset
+  artifactKey: Guid(f400d17433ae7f843b249b53a34b83a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/xbones SDF.asset using Guid(f400d17433ae7f843b249b53a34b83a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ad480d7a5a0c50b788de2201185a4a') in 0.112527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4651bb22bc38c6a92549c413be89677') in 0.073784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle2_Add.mat
+  artifactKey: Guid(92089ba5e33f01d418da1bd5ba5c31a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle2_Add.mat using Guid(92089ba5e33f01d418da1bd5ba5c31a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3dcfa7d8a149ed7c7fa3627e8a5ad1') in 0.018628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Landscape.mat
+  artifactKey: Guid(8130ad8f7a2b3d047b151a751a882f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/Landscape.mat using Guid(8130ad8f7a2b3d047b151a751a882f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbad2130af90b821ef3f9f514648a953') in 0.023470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf
+  artifactKey: Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf using Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fec0559ab4747fddb08b7f3b8f364b1') in 0.021029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
+  artifactKey: Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat using Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcaa151a5360d79271db3af72d9d1e54') in 0.043533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Eyes_Realistic_Yellow.mat
+  artifactKey: Guid(8537b7eda95019046b09fd536fad79fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Eyes_Realistic_Yellow.mat using Guid(8537b7eda95019046b09fd536fad79fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986e250df784789437f563e09e503ae0') in 0.016488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf
+  artifactKey: Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf using Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61ed864070f3e86fcd5cbaec50636934') in 0.021191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Red.mat
+  artifactKey: Guid(d6f0ef5a063748a4abafe92d725fb4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Red.mat using Guid(d6f0ef5a063748a4abafe92d725fb4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ade3e098c9685ccd89a009268423854') in 0.027715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Decal.mat
+  artifactKey: Guid(31d0dcc6f2dd4e4408d18036a2c93862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Decal.mat using Guid(31d0dcc6f2dd4e4408d18036a2c93862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d69339013f7ae37981bbef0ebd4c53') in 0.014982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Body_Realistic_Blue.mat
+  artifactKey: Guid(5345de62f51232e4e89c88fae3b38d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Body_Realistic_Blue.mat using Guid(5345de62f51232e4e89c88fae3b38d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263cbe4f7ca4dfdab7fdcc9fb391acc0') in 0.636845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+  artifactKey: Guid(c719e38f25a9480abd2480ab621a2949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat using Guid(c719e38f25a9480abd2480ab621a2949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b3c3545e8fcaf8725608f6a29db179') in 0.039006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceSiren_Blue.mat
+  artifactKey: Guid(77a359d50b8121641a17c4bea9311ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceSiren_Blue.mat using Guid(77a359d50b8121641a17c4bea9311ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e328b33641ef0aa73241b14fb799c92d') in 0.030779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Material/Apple_outside.mat
+  artifactKey: Guid(df391d6e576b22641bfce3840d731f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Apple_outside.mat using Guid(df391d6e576b22641bfce3840d731f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0b904c27578063a1478c7a3736bf7d') in 0.016848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aec897ac9c1f90c3a4de66a85872882') in 0.097929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Material/Apple_Inside.mat
+  artifactKey: Guid(5a0756674176e444285b016951862004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Apple_Inside.mat using Guid(5a0756674176e444285b016951862004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93c873b10ae93e825cb81e1234b5951') in 0.012764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Models/Drake_Re.fbx
+  artifactKey: Guid(26f30e8d37088ad46bab2212d44d131b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Models/Drake_Re.fbx using Guid(26f30e8d37088ad46bab2212d44d131b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edf381004e3fccc523073407581e44cb') in 2.094028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Magic/Magic Yellow.mat
+  artifactKey: Guid(e06654e42f6991548a76f7ed883c3515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Magic/Magic Yellow.mat using Guid(e06654e42f6991548a76f7ed883c3515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9431a3dad1ed43e121a3d8828c859f6') in 0.024047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Red.mat
+  artifactKey: Guid(0ab250c241734924a802005ee4284f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/CarPoliceLamp_Red.mat using Guid(0ab250c241734924a802005ee4284f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b798f358badd7a6c29e07364644049a2') in 0.031935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Environment/CalibrationFloor.mat
+  artifactKey: Guid(3041589aa990b42468c74902ca30f114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Environment/CalibrationFloor.mat using Guid(3041589aa990b42468c74902ca30f114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb8d30ae2e8a6c6c07b42ed8cf88bb0') in 0.063706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Blue.mat
+  artifactKey: Guid(774a28e8c6c332d4aaff38f866b61482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/UModeler/Materials/Basic/UModeler_RulerGrid_Blue.mat using Guid(774a28e8c6c332d4aaff38f866b61482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825277886e159a97bd78292bab47a2f9') in 0.036487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Eyes_Realistic_Blue.mat
+  artifactKey: Guid(831561a3a10f7a64bb69c44b93098580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Eyes_Realistic_Blue.mat using Guid(831561a3a10f7a64bb69c44b93098580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495573eaf86fe0db3ba448d7eb11230d') in 0.056496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/WhiteLamp_A.mat
+  artifactKey: Guid(3f139c735aface94c89f650ca910ec86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/WhiteLamp_A.mat using Guid(3f139c735aface94c89f650ca910ec86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa4ef695012dad124d5edff71ee5084') in 0.018207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/tripolygon/UModeler/Materials/Basic/UModeler_WindowGlass.mat
+  artifactKey: Guid(2933b3a24ac3df34da5b77d7f2bb2eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/UModeler/Materials/Basic/UModeler_WindowGlass.mat using Guid(2933b3a24ac3df34da5b77d7f2bb2eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e570d18dd255e5ca51fb831c2a76af') in 0.023418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003415 seconds.
+  path: Assets/tripolygon/UModeler/Materials/Basic/UModeler_Black.mat
+  artifactKey: Guid(153c311d0e4004347b32a730ba5529cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/UModeler/Materials/Basic/UModeler_Black.mat using Guid(153c311d0e4004347b32a730ba5529cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee94960c34e3bd63c2f8c1fcbf015bed') in 0.020024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf
+  artifactKey: Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf using Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3395d7f72e77e1915818087f60d75c') in 0.027139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Water/CFX4_Foam AddA8.mat
+  artifactKey: Guid(14526eb0dd765e145bfbb4c0755525e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Water/CFX4_Foam AddA8.mat using Guid(14526eb0dd765e145bfbb4c0755525e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ade1e1f0b28f0b2f539f3079c2e3bd5') in 0.024598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Body_Realistic_Lava.mat
+  artifactKey: Guid(804208ff12962b44998480f1fc27a149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Body_Realistic_Lava.mat using Guid(804208ff12962b44998480f1fc27a149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef1bcba3f61df408f7c852e3efcd54a') in 0.663030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89164b900779bb862524dc1244421291') in 0.093526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/HamburgerModel_A.mat
+  artifactKey: Guid(c8d93709d105fea458d14ffc98b37d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/HamburgerModel_A.mat using Guid(c8d93709d105fea458d14ffc98b37d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71f607f0932184ea47da91bf9ce10fe') in 0.030116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/RedLamp_A.mat
+  artifactKey: Guid(c438c151faae3444095cf73b2706bd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tripolygon/PastelTown-BuiltInRP-UModeler/Materials/RedLamp_A.mat using Guid(c438c151faae3444095cf73b2706bd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc8ad8527470493a58600812b5493a9') in 0.018780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Poof_AddSoft.mat
+  artifactKey: Guid(74a6f6cd13c058a43858627e5383715e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Poof_AddSoft.mat using Guid(74a6f6cd13c058a43858627e5383715e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d365d95510606e58116cfdba3094cb') in 0.019718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Lava.mat
+  artifactKey: Guid(16d64890cdb586c41b081fdc17986783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Lava.mat using Guid(16d64890cdb586c41b081fdc17986783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0fc1ffdf0be835dbae9613fea9a617') in 0.733780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Packages/com.unity.mobile.android-logcat/Editor/Resources/consola.ttf
+  artifactKey: Guid(b8af58820f69b474e8f63dc40a702fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.mobile.android-logcat/Editor/Resources/consola.ttf using Guid(b8af58820f69b474e8f63dc40a702fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f32e82b8ea9b2e7da4987b7027143b') in 0.039577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Anim_Splash_4frms.mat
+  artifactKey: Guid(58969c660eb4a0e4889bcccbd47e8752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Anim_Splash_4frms.mat using Guid(58969c660eb4a0e4889bcccbd47e8752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f408f6b736b3079613051f12603a5e') in 0.020118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf
+  artifactKey: Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf using Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec43a52ca61a1184f0639d2b51bd2db5') in 0.022135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Magic/Gold.mat
+  artifactKey: Guid(8b638c09ac1c5d94b96ba6773ccf6869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Magic/Gold.mat using Guid(8b638c09ac1c5d94b96ba6773ccf6869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1ce4409dfb849a7f59e80f780eb511') in 0.015166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Magic/Magic Black.mat
+  artifactKey: Guid(5e2948538d3401c4e9b045835fad426a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Magic/Magic Black.mat using Guid(5e2948538d3401c4e9b045835fad426a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3192b082d6e4c3e5fdbb2d38f45b10') in 0.012196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_Scripts/Fruit Ninja/Black.mat
+  artifactKey: Guid(e3f24ef8d531f3e429f1003fa5fdc32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/Fruit Ninja/Black.mat using Guid(e3f24ef8d531f3e429f1003fa5fdc32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1378fdf15c0208703c2e95f1720366') in 0.013589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Environment/Ground 100.mat
+  artifactKey: Guid(b0b501c3512ce624b9748a60334e82a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Environment/Ground 100.mat using Guid(b0b501c3512ce624b9748a60334e82a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad9856801fcadf71c1fd7a476aac535') in 0.052266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af67d4b5a6582ae23642f681cbc22be') in 0.037713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX4_FireSoft AddSoft.mat
+  artifactKey: Guid(d37187939248a4d4ab8284eca155b745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX4_FireSoft AddSoft.mat using Guid(d37187939248a4d4ab8284eca155b745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c8b3945b1697a6a0e1a4b72f4474e5') in 0.016630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Red.mat
+  artifactKey: Guid(2f5f65a4e5221e84399f0328aab14f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/7 - Drake the Dragonkin/Materials & Textures/Realistic/Drake_Wings_Realistic_Red.mat using Guid(2f5f65a4e5221e84399f0328aab14f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055e5f22889b4c6ea2306e18d1171e94') in 0.343214 seconds 

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: b475b7da303d2904990ab87f8bbc47f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 163
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313623a95d6805b478c4d88ff55e1ee7
+      internalID: 1995550534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 288
+        width: 163
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4511b762be8e4fa9b7d68ff7bdd35
+      internalID: -1630854312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 400
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a3e81ec8a25c4e8b1cfb0849e6829
+      internalID: -2079909516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 427
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0429233fcf953b44b7f78b3e8159121
+      internalID: -838451606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 413
+        width: 248
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600584c56ea09434a8acaa3137c21a69
+      internalID: -400905111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 418
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3a41be57de6945accef97c32d4cdf
+      internalID: 1482298979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 426
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937855044a008c40b2a00c076affaf2
+      internalID: 872288912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 405
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac927950a80e8984088ea987445d5f53
+      internalID: 1395183052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 405
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ced5714d3609649ba8b0aef62a9c6c
+      internalID: 1136627215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 306
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28328659d9cce4e9d6f934d259539b
+      internalID: 400424845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 306
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63420b31545b8c4fa39b9bfff9cc9d3
+      internalID: -2118100015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 293
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3c1ecac14d32419bee2bbf62da896
+      internalID: -73767527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 294
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d07790a4dd5e444855c054e5d0ae13
+      internalID: 1728159440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914556ecd8565a04d985b52162e263f5
+      internalID: -215541225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 134
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4a7fe0a9141b48a00009d1e8fd59c
+      internalID: -982405340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 216
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28184d51ae2fde4f85b919b578bd9f5
+      internalID: 1380117520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 220
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76af9849b5b71f499243052b0398a03
+      internalID: -1517370604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 61
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5feaf3e4de2ee4da777e08fb8eb891
+      internalID: 1684128662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 32
+        width: 31
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae81f32a6efca45adf00e1f15060b4
+      internalID: -2045520318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 32
+        width: 30
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa572550dbacaa44b8f336cbd20bac00
+      internalID: 1673604804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abe1b99eaf06c4a9f511f2df1ca206
+      internalID: -1996807790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 205
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a8852dab2cba4283fefe2e862f32e
+      internalID: 776459983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 188
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e533200d703434ca03e143bbd39e3c
+      internalID: 1979088388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 163
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4924db373ae502d40b738fbdb681a48f
+      internalID: 933648548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 165
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f4ebef312e984987838fcbe0a53ae
+      internalID: -1411663783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 159
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797aa43772a96324ab9a5f9106f864b3
+      internalID: -2137425522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 134
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9d5f6b76d2e440850ce76de0fec3e
+      internalID: 1345108249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 146
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b5809e563bec94fabdedeba46978c4
+      internalID: 2001010789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 128
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da304173f5a19d343a6c64ba18d8b64a
+      internalID: 1064136600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 102
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f012590b48772041bfd5bb03ae0e1b1
+      internalID: 547596309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 117
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345ac5cc817ff240aebf83017717f0b
+      internalID: -889427194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb95c82771df8a488d128753a667754
+      internalID: -1201428660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bbe14d1b8595d4cba8a2575366d770
+      internalID: -1859261504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 77
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909d0dc5d3b96934bac767a13489e6fb
+      internalID: 724053604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 14
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80db902eb9f1c948b345a271aa584fa
+      internalID: 881837745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702bf2b74583513489dd37c4eff29984
+      internalID: 1645588193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 28
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34578b13ffab5d043954f5df424f3d28
+      internalID: -1168347381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579dfd490ba631e41af47524dcb20fe8
+      internalID: 699955761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0488c471e937341a4fe41ef6114cdc
+      internalID: -312511088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 10
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c8444a0dccfa94db9b8ccc8880e71b
+      internalID: -713899271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eccd1625805da242b314bd3c20063a8
+      internalID: 729116290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 14
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e26429473a7b439aff2b39bea32d9
+      internalID: -505323532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-flappy-bird-background-png-6107169_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06cf671a9497834abba3d13693aee91
+      internalID: -419332513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngfind.com-flappy-bird-background-png-6107169_5: 1482298979
+      pngfind.com-flappy-bird-background-png-6107169_13: -215541225
+      pngfind.com-flappy-bird-background-png-6107169_41: -505323532
+      pngfind.com-flappy-bird-background-png-6107169_28: 1064136600
+      pngfind.com-flappy-bird-background-png-6107169_17: 1684128662
+      pngfind.com-flappy-bird-background-png-6107169_8: 1136627215
+      pngfind.com-flappy-bird-background-png-6107169_27: 2001010789
+      pngfind.com-flappy-bird-background-png-6107169_40: 729116290
+      pngfind.com-flappy-bird-background-png-6107169_19: 1673604804
+      pngfind.com-flappy-bird-background-png-6107169_39: -713899271
+      pngfind.com-flappy-bird-background-png-6107169_22: 1979088388
+      pngfind.com-flappy-bird-background-png-6107169_18: -2045520318
+      pngfind.com-flappy-bird-background-png-6107169_38: -312511088
+      pngfind.com-flappy-bird-background-png-6107169_4: -400905111
+      pngfind.com-flappy-bird-background-png-6107169_31: -1201428660
+      pngfind.com-flappy-bird-background-png-6107169_1: -1630854312
+      pngfind.com-flappy-bird-background-png-6107169_14: -982405340
+      pngfind.com-flappy-bird-background-png-6107169_2: -2079909516
+      pngfind.com-flappy-bird-background-png-6107169_34: 881837745
+      pngfind.com-flappy-bird-background-png-6107169_10: -2118100015
+      pngfind.com-flappy-bird-background-png-6107169_29: 547596309
+      pngfind.com-flappy-bird-background-png-6107169_26: 1345108249
+      pngfind.com-flappy-bird-background-png-6107169_30: -889427194
+      pngfind.com-flappy-bird-background-png-6107169_32: -1859261504
+      pngfind.com-flappy-bird-background-png-6107169_33: 724053604
+      pngfind.com-flappy-bird-background-png-6107169_21: 776459983
+      pngfind.com-flappy-bird-background-png-6107169_37: 699955761
+      pngfind.com-flappy-bird-background-png-6107169_6: 872288912
+      pngfind.com-flappy-bird-background-png-6107169_15: 1380117520
+      pngfind.com-flappy-bird-background-png-6107169_25: -2137425522
+      pngfind.com-flappy-bird-background-png-6107169_11: -73767527
+      pngfind.com-flappy-bird-background-png-6107169_3: -838451606
+      pngfind.com-flappy-bird-background-png-6107169_20: -1996807790
+      pngfind.com-flappy-bird-background-png-6107169_16: -1517370604
+      pngfind.com-flappy-bird-background-png-6107169_7: 1395183052
+      pngfind.com-flappy-bird-background-png-6107169_0: 1995550534
+      pngfind.com-flappy-bird-background-png-6107169_12: 1728159440
+      pngfind.com-flappy-bird-background-png-6107169_35: 1645588193
+      pngfind.com-flappy-bird-background-png-6107169_36: -1168347381
+      pngfind.com-flappy-bird-background-png-6107169_42: -419332513
+      pngfind.com-flappy-bird-background-png-6107169_24: -1411663783
+      pngfind.com-flappy-bird-background-png-6107169_9: 400424845
+      pngfind.com-flappy-bird-background-png-6107169_23: 933648548
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
